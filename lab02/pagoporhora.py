@@ -1,0 +1,5 @@
+print("Bienvenido")
+horas = input("Ingrese el numero de Horas trabajadas\n")
+pago = input("Ingrese el pago por Hora\n")
+salario = int(horas)*int(pago)
+print("Usted recibira "+ str(salario)+ " Lempiras")
