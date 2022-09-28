@@ -1,4 +1,6 @@
 maximo = 0
+#Trate de hacerlo lo mas simple posible por ello di un numero grande comparativo para minimo, para que pueda
+#ser True la condicion para minimo y luego se vaya actualizando con los inputs. 
 minimo = 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 while True:
  try:
