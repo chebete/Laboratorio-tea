@@ -1,0 +1,5 @@
+petaca, 24
+timon, 24
+comida, 34
+sarna, 45
+yisus, 43
