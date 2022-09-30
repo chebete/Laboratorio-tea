@@ -12,7 +12,7 @@ while True:
             media = float(suma) / float(contador)
     except:
             print("Dato no Valido")
-            #reduje en 1 porque, porque tomaba encuenta en el contador los ingresos no validos.
+            #reduce en 1 porque, porque tomaba encuenta en el contador los ingresos no validos.
             contador = float(contador) -1
             continue
 print("Numero de entradas: "+ str(contador))
